@@ -1,0 +1,126 @@
+{
+  "label_encoders": {
+    "VISCODE": [
+      "bl",
+      "m06",
+      "m12",
+      "m24"
+    ],
+    "DX": [
+      "CN",
+      "Dementia",
+      "MCI"
+    ],
+    "DX_bl": [
+      "AD",
+      "CN",
+      "LMCI"
+    ],
+    "PTGENDER": [
+      "Female",
+      "Male"
+    ],
+    "PTETHCAT": [
+      "Hisp/Latino",
+      "Not Hisp/Latino",
+      "Unknown"
+    ],
+    "PTRACCAT": [
+      "Asian",
+      "Black",
+      "White"
+    ],
+    "PTMARRY": [
+      "Divorced",
+      "Married",
+      "Never married",
+      "Unknown",
+      "Widowed"
+    ],
+    "NPIK": [
+      "0.0",
+      "1.0"
+    ],
+    "NPIKSEV": [
+      "0.0",
+      "1.0",
+      "2.0",
+      "3.0"
+    ],
+    "MHSleep": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "standardized_variables": [
+    "ADNI_MEM",
+    "ADNI_EF",
+    "ADNI_LAN",
+    "ADNI_VS",
+    "ADNI_EF2",
+    "RightEntorhinal",
+    "LeftEntorhinal",
+    "RightTemporalPole",
+    "LeftTemporalPole",
+    "RightParahippocampal",
+    "LeftParahippocampal",
+    "RightInferiorTemporal",
+    "LeftInferiorTemporal",
+    "RightMiddleTemporal",
+    "LeftMiddleTemporal",
+    "RightFusiform",
+    "LeftFusiform",
+    "RightInferiorParietal",
+    "LeftInferiorParietal",
+    "RightIsthmusCingulate",
+    "LeftIsthmusCingulate",
+    "RightBankssts",
+    "LeftBankssts",
+    "RightPrecuneus",
+    "LeftPrecuneus",
+    "RightHippocampus",
+    "LeftHippocampus",
+    "RightAmygdala",
+    "LeftAmygdala",
+    "RightAccumbensArea",
+    "LeftAccumbensArea",
+    "RightMedialOrbitofrontal",
+    "LeftMedialOrbitofrontal",
+    "RightPallidum",
+    "LeftPallidum",
+    "RightCaudalMiddleFrontal",
+    "LeftCaudalMiddleFrontal",
+    "RightPutamen",
+    "LeftPutamen",
+    "RightRostralAnteriorCingulate",
+    "LeftRostralAnteriorCingulate",
+    "RightParacentral",
+    "LeftParacentral",
+    "RightPrecentral",
+    "LeftPrecentral",
+    "RightLingual",
+    "LeftLingual",
+    "RightInferiorLateralVentricle",
+    "LeftInferiorLateralVentricle",
+    "RightLateralVentricle",
+    "LeftLateralVentricle",
+    "BMI",
+    "Adjusted_Age",
+    "MHSleep",
+    "Sleep_Apnea",
+    "Insomnia"
+  ],
+  "dummy_variables": [
+    "DX",
+    "DX_bl",
+    "PTETHCAT",
+    "PTGENDER",
+    "PTRACCAT"
+  ],
+  "final_shape": [
+    2088,
+    75
+  ]
+}

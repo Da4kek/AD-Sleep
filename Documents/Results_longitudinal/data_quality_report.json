@@ -1,0 +1,266 @@
+{
+  "total_subjects": 522,
+  "total_observations": 2088,
+  "time_points_per_subject": {
+    "count": 522.0,
+    "mean": 4.0,
+    "std": 0.23182493891568903,
+    "min": 2.0,
+    "25%": 4.0,
+    "50%": 4.0,
+    "75%": 4.0,
+    "max": 5.0
+  },
+  "missing_data_summary": {
+    "ADNI_MEM": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "ADNI_EF": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "ADNI_LAN": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "ADNI_VS": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "ADNI_EF2": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightEntorhinal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftEntorhinal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightTemporalPole": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftTemporalPole": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightParahippocampal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftParahippocampal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightInferiorTemporal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftInferiorTemporal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightMiddleTemporal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftMiddleTemporal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightFusiform": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftFusiform": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightInferiorParietal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftInferiorParietal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightIsthmusCingulate": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftIsthmusCingulate": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightBankssts": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftBankssts": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightPrecuneus": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftPrecuneus": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightHippocampus": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftHippocampus": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightAmygdala": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftAmygdala": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightAccumbensArea": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftAccumbensArea": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightMedialOrbitofrontal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftMedialOrbitofrontal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightPallidum": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftPallidum": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightCaudalMiddleFrontal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftCaudalMiddleFrontal": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightPutamen": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftPutamen": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightRostralAnteriorCingulate": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftRostralAnteriorCingulate": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightParacentral": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftParacentral": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightPrecentral": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftPrecentral": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightLingual": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftLingual": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightInferiorLateralVentricle": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftInferiorLateralVentricle": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "RightLateralVentricle": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "LeftLateralVentricle": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "NPIK": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "NPIKSEV": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "MHSleep": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "APOE4": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "BMI": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "MH": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "Adjusted_Age": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "PTEDUCAT": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    },
+    "PTMARRY": {
+      "missing_count": 0,
+      "missing_percentage": 0.0
+    }
+  },
+  "diagnosis_distribution": {
+    "CN": 189,
+    "Dementia": 200,
+    "MCI": 248
+  },
+  "baseline_diagnosis_distribution": {
+    "AD": 106,
+    "CN": 178,
+    "LMCI": 238
+  }
+}

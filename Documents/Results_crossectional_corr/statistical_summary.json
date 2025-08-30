@@ -1,0 +1,34 @@
+{
+  "sample_characteristics": {
+    "total_participants": "2088",
+    "baseline_participants": "522",
+    "group_sizes": "{'CN': 713, 'MCI': 953, 'AD': 422}",
+    "age_range": "55.1-91.7",
+    "follow_up_duration": "4 visits"
+  },
+  "crossectional_analysis": {
+    "total_models_tested": "153",
+    "significant_cognitive_associations": "7",
+    "significant_mri_associations": "27",
+    "strongest_cognitive_effect": "Feature                NPIK\nCoefficient        -0.30361\nP_Value            0.003267\nStd_Error          0.102733\nR_Squared          0.487684\nOutcome            ADNI_LAN\nSleep_Variable         NPIK\nDomain            Cognitive\nName: 24, dtype: object",
+    "strongest_mri_effect": "Feature                     NPIK\nCoefficient            -0.341402\nP_Value                 0.001792\nStd_Error               0.108755\nR_Squared               0.191235\nOutcome           LeftPrecentral\nSleep_Variable              NPIK\nDomain                       MRI\nName: 383, dtype: object"
+  },
+  "correlation_analysis": {
+    "total_significant_correlations": "129",
+    "by_group": "{'MCI': 57, 'CN': 46, 'AD': 26}",
+    "by_sleep_variable": "{'MHSleep': 51, 'NPIKSEV': 41, 'NPIK': 37}",
+    "strongest_correlation": "Group                  MCI\nSleep_Variable     MHSleep\nOutcome                 MH\nCorrelation       0.312917\nP_Value                0.0\nSignificant           True\nName: 358, dtype: object",
+    "average_effect_size": "0.13720879621153226"
+  },
+  "granger_causality": {
+    "total_significant_relationships": "61",
+    "sleep_to_outcome_count": "18",
+    "outcome_to_sleep_count": "43",
+    "by_group": "{'MCI': 36, 'AD': 16, 'CN': 9}",
+    "by_sleep_variable": "{'NPIKSEV': 27, 'NPIK': 24, 'MHSleep': 10}"
+  },
+  "effect_sizes": {
+    "lasso_effect_sizes": "{'mean': np.float64(0.038577609550879945), 'median': 0.03575723789726048, 'max': 0.13751695786297394, 'min': 0.0}",
+    "correlation_effect_sizes": "{'mean': np.float64(0.13720879621153226), 'median': 0.13278841705153277, 'max': 0.31291680640959796, 'min': 0.09411533810493371}"
+  }
+}
